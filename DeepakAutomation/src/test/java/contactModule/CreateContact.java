@@ -7,6 +7,8 @@ public class CreateContact {
 		
 		
 		System.out.println(" all contact");
+		System.out.println("Raman");
+		System.out.println("Simar Kaur");
 	}
 
 }
